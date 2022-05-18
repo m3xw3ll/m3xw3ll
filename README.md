@@ -13,11 +13,14 @@
 ```
 I recently worked on some interesting data science projects
 including building a chatbot, several timeseries predictions
-and multi label text classifications. Furthermore, I have some experience with image processing.  
+and multi label text classifications. 
+Furthermore, I have some experience with image processing.  
 
 Here on GitHub I mainly host my personal fun projects.
-I usually code with Python, but I am also interested in web development.
-I have an endless list of projects I want to tackle, but unfortunately I have not enough time. 
+I usually code with Python, 
+but I am also interested in web development.
+I have an endless list of projects I want to tackle, 
+but unfortunately I have not enough time. 
 Some ideas:
 
 - Budget App (web)
