@@ -1,6 +1,6 @@
 # About me
 
-*👋 Hello World, I am Max. Here are five facts about me:*
+*👋 Hello World, I am Max. Here are six facts about me:*
 
 📍Lower Bavaria **Germany**
 
