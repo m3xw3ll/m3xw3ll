@@ -12,7 +12,7 @@
 
 ⚒️ Currently working in the **construction sector**
 
-🚀 Off-work I solve problems on **[LeetCode](https://leetcode.com/m3xwell/)**
+🚀 Off-work I solve problems on **[LeetCode](https://leetcode.com/m3xwell/)** and participate on **[Kaggle](https://www.kaggle.com/mexwell)**
 
 # Tech Stack
 
