@@ -2,7 +2,7 @@
 
 *👋 Hello World, I am Max. Here are six facts about me:*
 
-📍Lower Bavaria **Germany**
+📍Upper Bavaria **Germany**
 
 🐍 **Python** enthusiast
 
